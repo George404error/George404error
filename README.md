@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=george404error&label=Profile%20views&color=0e75b6&style=flat" alt="george404error" /> </p>
 <p align="center">
-- 👨‍💻 All of my projects are available at https://github.com/George404error
+- 👨‍💻 All of my projects are available here or at https://github.com/george5656 (My uni Github)
 </p>
 <p align="center">
 - 📫 How to reach me georgefinch12@gmail.com
